@@ -36,7 +36,7 @@ jobs:
           - platform: ds918p
             version: 7.1.0-42661
           - platform: ds918p
-            version: 7.2.0-64216
+            version: 7.2.0-64551
           
 
 
@@ -45,7 +45,7 @@ jobs:
           - platform: ds920p
             version: 7.1.0-42661
           - platform: ds920p
-            version: 7.2.0-64216
+            version: 7.2.0-64551
             
     steps:
       - name: 检出项目文件
