@@ -31,12 +31,12 @@ jobs:
             version: 7.1.0-42661
             
 
-          - platform: ds918p
+          - platform: ds918+
             version: 7.0.1-42218
-          - platform: ds918p
+          - platform: ds918+
             version: 7.1.0-42661
-          - platform: ds918p
-            version: 7.2.0-64551
+          - platform: ds918+
+            version: 7.2.0-64570
           
 
 
